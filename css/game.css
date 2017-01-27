@@ -1,0 +1,39 @@
+.container{
+display:flex;
+width: 1000px;
+height: 500px;
+border: 8px double red;
+margin: auto;
+}
+
+.leftBox{
+width:500px;
+height: 500px;
+margin: auto;
+}
+
+.rightBox{
+  border-left: 3px solid yellow;
+  width:500px;
+  height: 500px;
+  margin: auto;
+}
+p {
+    font-size : 150%;
+}
+
+img {
+    width : 65px;
+    height : 65px;
+}
+
+#actualLevel {
+    font-size : 200%;
+    color : yellow;
+}
+
+body {
+    background: black;
+    color : white;
+    text-align : center;
+}
